@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "name": "lambdalauncher",
+  "version": "1.7.10",
+  "productName": "Lambda Launcher",
+  "description": "Un launcheur lambda pour une communité lambda",
+  "author": "Oshiwax#3344 And Daniel Scalzi (https://github.com/dscalzi/)",
+  "license": "OWAKI",
+  "homepage": "https://github.com/YouAreAWizzard/LambdaLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/YouAreAWizzard/LambdaLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/YouAreAWizzard/LambdaLauncher.git"
   }
 }
