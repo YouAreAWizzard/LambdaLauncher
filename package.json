@@ -5,9 +5,9 @@
   "description": "Un launcheur lambda pour une communité lambda",
   "author": "Oshiwax#3344 And Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "OWAKI",
-  "homepage": "https://github.com/YouAreAWizzard/LambdaLauncher",
+  "homepage": "https://github.com/YouAreAWizzard/LambdaLauncherr",
   "bugs": {
-    "url": "https://github.com/YouAreAWizzard/LambdaLauncher/issues"
+    "url": "https://github.com/YouAreAWizzard/LambdaLauncherr/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YouAreAWizzard/LambdaLauncher.git"
+    "url": "git+https://github.com/YouAreAWizzard/LambdaLauncherr.git"
   }
 }
